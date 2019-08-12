@@ -1,0 +1,15 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+      "description": "",
+      "version": "1.0.0",
+      "title": "PostgreSQL_MongoDB_API",
+      "contact": {
+        "email": ""
+      },
+      "license": {
+        "name": "",
+        "url": ""
+      }
+    }
+  }
