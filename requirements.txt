@@ -17,7 +17,7 @@ Flask-Sillywalk==2.1
 Flask-SQLAlchemy==2.4.0
 flask-swagger==0.2.14
 flask-swagger-ui==3.20.9
-gunicorn==0.14.2
+gunicorn==19.9.0
 importlib-metadata==0.19
 itsdangerous==1.1.0
 Jinja2==2.10.1
